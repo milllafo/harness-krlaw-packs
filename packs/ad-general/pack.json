@@ -2,7 +2,7 @@
   "id": "ad-general",
   "title": "광고 · 표시 공통",
   "format": 1,
-  "version": 1,
+  "version": 2,
   "checked_at": "2026-11-11",
   "scope": {
     "covers": [
@@ -276,7 +276,8 @@
           "id": "FTC-TYPES-ALL",
           "article": "전문",
           "title": "",
-          "grade": "보조"
+          "grade": "보조",
+          "note": "그림 2개는 출처 화면에서 본다(원문에는 자리 표시만 있다)"
         }
       ]
     }
