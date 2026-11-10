@@ -2,7 +2,7 @@
   "id": "corp-tax",
   "title": "회사 · 세무 장부",
   "format": 1,
-  "version": 0,
+  "version": 1,
   "checked_at": "",
   "scope": {
     "covers": [
@@ -17,7 +17,23 @@
       "위법 · 합법 판정"
     ]
   },
-  "laws": {},
+  "laws": {
+    "상법": {
+      "ef": "2026-09-10",
+      "promulgated": "2025-09-09",
+      "law_id": "001702"
+    },
+    "국세기본법": {
+      "ef": "2026-10-02",
+      "promulgated": "2026-09-29",
+      "law_id": "001586"
+    },
+    "소득세법 시행령": {
+      "ef": "2026-10-01",
+      "promulgated": "2026-09-30",
+      "law_id": "003956"
+    }
+  },
   "watch": [
     {
       "kind": "law",

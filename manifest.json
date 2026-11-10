@@ -1,0 +1,104 @@
+{
+  "format": 1,
+  "generated_at": "2026-11-11",
+  "packs": {
+    "admin": {
+      "version": 1,
+      "checked_at": "",
+      "files": {
+        "packs/admin/pack.json": "ba86b776f66451bed22c4971a1eef895879e3de2d69d064419011f3c81886ea0",
+        "packs/admin/basis.csv": "c2650f9a008779f5d227288d8e93d72a06b5418c1cfb9926126d51f0b91dd53d",
+        "packs/admin/text/ADMIN-17.txt": "a1a410ad3f8ea9f94558e08242a90f2edfb4906c2093d86be46db9e78e0b49af",
+        "packs/admin/text/ADMIN-19.txt": "776defdb3897cc18d5b6270fcb4c1943c3e94b0c23824e2d21b689a0a27ca0ad",
+        "packs/admin/text/ADMIN-40.txt": "59bd34ef2f372402db9e9e6129fca90656efd5ad71258083d6f7cbf58a51980f",
+        "packs/admin/text/PETITION-10.txt": "4b0135a832db9764f612904371cdfabcf7a5a67dfd03081ec2a0a8f0a5ed1dbc",
+        "packs/admin/text/PETITION-8.txt": "c280a95942768cd187648ee1d304bb2fc325cab7801a13662a7d0da15463ffdd",
+        "packs/admin/text/RND-10.txt": "061a9f942639fb95f129a619a6d72d3714161129bd0126adad0eb7f207b80248",
+        "packs/admin/text/RND-9.txt": "4a07c9d6c575fa709bf9f4deacf0635ead856ff34c40768772ba81dd46588de5",
+        "packs/admin/text/SUBSIDY-16.txt": "f31adf1a7b6da93990335e3976772cb1157878511d146f71482e53be73e6e83d",
+        "packs/admin/text/SUBSIDY-22.txt": "d69c4517fe30c88ab1d10c719b2764cb7f218bd60793090e89f143afdf010160",
+        "packs/admin/text/SUBSIDY-30.txt": "4fb721b6da39affe44d0c1996d4fb3f9b58beb243a6d1fc8113c0d6e5b7e75ec"
+      }
+    },
+    "contract": {
+      "version": 1,
+      "checked_at": "",
+      "files": {
+        "packs/contract/pack.json": "ac8c8f7774aad5e162115cbb4dce358165163c9f4d12ee0d5dd753be45a81edd",
+        "packs/contract/basis.csv": "d53c098469a7987af7e95f8bf7e0ac978ffea01efa1cd03af4d49a2e7e1115b7",
+        "packs/contract/text/CIVIL-103.txt": "9e695f34d18be2827615b77536b64ef9fe7899bfdf0c5ecb097bc8a6a58a027f",
+        "packs/contract/text/CIVIL-104.txt": "6ba60de54ac1fb6f52399bcccee10e8ab4a8f3076c9b2339a8b321ea7484d3b0",
+        "packs/contract/text/CIVIL-393.txt": "d8f8e8605bad64d574c698047fe7e73795148f30e68e1bbd27292c3967492d59",
+        "packs/contract/text/CIVIL-398.txt": "372206f87d2393b19f186002e52adb5ae4a7ce5e0f321d3b242c339bac3e8445",
+        "packs/contract/text/SUBCON-03-4.txt": "300e3cd9812e4dff3c2f3634edb384469b23933dcb168a2cd9d3bf4cd5439a47",
+        "packs/contract/text/TERMS-03.txt": "9bcfd09ecde87d05e950cc6940cbb5e52d820d69df7ca5771ab66c7897b09e62",
+        "packs/contract/text/TERMS-05.txt": "f5f2f671e4ea3036f76c26a2df39c263fbc81f3545d11ec52ae446f6db4da343",
+        "packs/contract/text/TERMS-06.txt": "90bb4c3b588cc9ef215437575fb13c296a5ef0807d6ed273e7592c9f15a6736f",
+        "packs/contract/text/TERMS-07.txt": "998a3160a4ec33ce1f25362c1f0b10f719cb7754e729dbdd5d3bd2c088e6bab3",
+        "packs/contract/text/TERMS-08.txt": "3b1677d52cf5664dcb5b529f6834703c7aae65f78eb4ee56478de281e9864991",
+        "packs/contract/text/TERMS-09.txt": "f186532dafbb453f473637bcc680d39de91d975b94b7e9f0d63e9140db00a44f",
+        "packs/contract/text/TERMS-14.txt": "4be0ee3670b7c3943970fa9b9b02643f506aeda9d49ab6c27dd82548e56da7d5"
+      }
+    },
+    "corp-tax": {
+      "version": 1,
+      "checked_at": "",
+      "files": {
+        "packs/corp-tax/pack.json": "1f415cfb0af6d8add9c13df3e2f38aa8b7a50a927f0b576106a6c047b12b1cd0",
+        "packs/corp-tax/basis.csv": "e7fc3ecf81523325c36644c7897bc8c95f1db8cda93380cb70765425b8503710",
+        "packs/corp-tax/text/COMM-33.txt": "f5aaaae50595a6cc548bd5d4ce505f0e1ca5e37421b04f4944b43785f721635e",
+        "packs/corp-tax/text/INCOMETAX-ENF-12.txt": "ea5dd40ca6f959b3ef88d4906294a27f63c5718a798b7ff6dc37c2659a523ba3",
+        "packs/corp-tax/text/TAX-85-3.txt": "1a7caf01cf8bfeb7973cda9610a993a9d57d15e36cd2cee8ec95a66cefa9a873"
+      }
+    },
+    "labor": {
+      "version": 1,
+      "checked_at": "",
+      "files": {
+        "packs/labor/pack.json": "7eaf293837e0ff4efa1c53fe2cb45670b302e7130b67278b6703659f20158ac9",
+        "packs/labor/basis.csv": "06ea2b8617aea40f89cd42440d4115a608528261c5645ec26f161be1baac8845",
+        "packs/labor/text/AGE-4-4.txt": "a4b4722a1a19c312f7fc146eb12a630bdb25820bbb73989a6a0c4a6ce63d8e4d",
+        "packs/labor/text/DISCRIM-10.txt": "46d31ae2d639188f8b8259139291b04854895222aae46826e7ba7d0e0f68fa69",
+        "packs/labor/text/DISEMP-5-2.txt": "686c8840dc323a462c5250583dda3f227a4533d50a51b0b74caf6a1f8b1111b8",
+        "packs/labor/text/EMPLOY-7.txt": "d97878500c41365e7813484bfaae74f0a0318e4acf26a858e9666e297a333636",
+        "packs/labor/text/EQUAL-13.txt": "8a3851cf6b4b4d81f91b7c580663b224ca6852bed2cc802a39a507412b31592f",
+        "packs/labor/text/EQUAL-7.txt": "131a9b5adaf288ba67fb394bfaa9755682c5f4528fd0719e1eb41fea121a8278",
+        "packs/labor/text/HIRE-3.txt": "93e488fc1606031d6ae33f2bb231f8f49b17dd9eb4e5bb58b58bf7b4731f361f",
+        "packs/labor/text/HIRE-4-3.txt": "0650e2f5ae0cc1e391e6817b94d3dfcd5ccbd20abfd293e12cdb92c6d34746c3",
+        "packs/labor/text/HIRE-4.txt": "f4e2925ee04f9d9619258ac1b1e9a8027742f1e76fc2555a9c13ab821ce7728c",
+        "packs/labor/text/HIRE-8.txt": "1a1579167f4256c2cfb0442f927a4ee5888a3244444fe8d3fa368c36d3f05020",
+        "packs/labor/text/LABOR-17.txt": "3ddc8e60ee09a0da7799338ecf9fd768df5e1f70a0dc4293a93a60feba2c6a49",
+        "packs/labor/text/LABOR-6.txt": "ec8d33b073219cc44d6ddc2c8ca3f360a1e2f2cca0f92781485f0939ac8477ca",
+        "packs/labor/text/LABOR-76-2.txt": "d078abed3586b060d4b71ca938126fd86160f423bbea47b89bd5cc3e04619ad6",
+        "packs/labor/text/LABOR-93.txt": "cac2bade8cdc59d91802ef2808cc2ecc52b10c9b647f3b6f1342481aab92b387",
+        "packs/labor/text/LABOR-94.txt": "5d81dc957912fd25f6732a15725e518d611f632139684fa9bfc451c833b11305"
+      }
+    },
+    "personal-info": {
+      "version": 1,
+      "checked_at": "",
+      "files": {
+        "packs/personal-info/pack.json": "589983e9a60bbd385665025decb8fbe57a5f8171b54c266589fddc86df5754d0",
+        "packs/personal-info/basis.csv": "6c4b835ababcc27c96a027a74d2fc7c2290b89020fb4f27cfa6c3967dfbc4157",
+        "packs/personal-info/text/PIPA-15.txt": "8c87abad370fbd57a8187a66c32ad9927230fa8bfae585d7e585690ce9874d4a",
+        "packs/personal-info/text/PIPA-21.txt": "2382f657dbe4f757e24edf6c71333bcae656d1ff7393820c045af583b6460d03",
+        "packs/personal-info/text/PIPA-23.txt": "aefbc480361bcbd85e0b977592e1032ea216114ae811deb2d9104c197a15b8a1",
+        "packs/personal-info/text/PIPA-24-2.txt": "715e7b43860390dde03884328af2fa20e1fd2322e7d0694a545c79e49bbb2440",
+        "packs/personal-info/text/PIPA-29.txt": "75c8ba336cdf2340f1b85a15652686706f9f19d8acc1ed116027de77de1b4822"
+      }
+    },
+    "safety": {
+      "version": 1,
+      "checked_at": "",
+      "files": {
+        "packs/safety/pack.json": "2b46d94351a8a4e49886ce6985681efbe04ba17875243e92e638b74fc6e220ed",
+        "packs/safety/basis.csv": "60b276c6b1ad6897c725bdd0f6dcf5e73b0f30eb559cdf6fbd4ba0cf2dfa77c6",
+        "packs/safety/text/FIRE-24.txt": "3e5baf094b23e8552e5e9d92eef1e2d30f833936d0c464b5381a49fee28e83c4",
+        "packs/safety/text/OSH-17.txt": "4eada06ad3a34f0a357c80eea4027e141f71ed32bd15cb207d0a766ff0960566",
+        "packs/safety/text/OSH-25.txt": "f19b0551999c9de8a2b16f92f5f35d23d21cce0c2d9b7c714876522e06df884f",
+        "packs/safety/text/OSH-29.txt": "eff19fac4e606f2a244681031a4e2a6047e51fab1f2cd1fb13fc48b1663addf1",
+        "packs/safety/text/SAPA-4.txt": "b5e72e7749a9e38c59e247dd4fc6726f16a38af1a1752dcea1ca1a1230854a22"
+      }
+    }
+  }
+}
