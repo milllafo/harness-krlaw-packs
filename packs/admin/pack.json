@@ -3,7 +3,7 @@
   "title": "행정 신청 · 지원사업",
   "format": 1,
   "version": 1,
-  "checked_at": "",
+  "checked_at": "2026-11-11",
   "scope": {
     "covers": [
       "행정절차법 — 제17조(처분의 신청) · 제19조(처리기간의 설정ㆍ공표) · 제40조(신고)",
@@ -156,5 +156,34 @@
       ]
     }
   ],
-  "upcoming": []
+  "upcoming": [
+    {
+      "id": "PETITION-8",
+      "ef": "2026-12-03",
+      "promulgated": "2026-06-02",
+      "changes": false,
+      "what": ""
+    },
+    {
+      "id": "PETITION-10",
+      "ef": "2026-12-03",
+      "promulgated": "2026-06-02",
+      "changes": false,
+      "what": ""
+    },
+    {
+      "id": "RND-9",
+      "ef": "2027-03-16",
+      "promulgated": "2026-09-15",
+      "changes": true,
+      "what": "글자"
+    },
+    {
+      "id": "RND-10",
+      "ef": "2027-03-16",
+      "promulgated": "2026-09-15",
+      "changes": true,
+      "what": "글자"
+    }
+  ]
 }

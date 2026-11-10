@@ -3,7 +3,7 @@
   "title": "안전 · 보건",
   "format": 1,
   "version": 1,
-  "checked_at": "",
+  "checked_at": "2026-11-11",
   "scope": {
     "covers": [
       "산업안전보건법 — 제17조(안전관리자) · 제25조(안전보건관리규정의 작성) · 제29조(근로자에 대한 안전보건교육)",
@@ -101,5 +101,132 @@
       ]
     }
   ],
-  "upcoming": []
+  "upcoming": [
+    {
+      "id": "OSH-17",
+      "ef": "2026-12-08",
+      "promulgated": "2026-04-07",
+      "changes": false,
+      "what": ""
+    },
+    {
+      "id": "OSH-17",
+      "ef": "2027-01-01",
+      "promulgated": "2026-02-19",
+      "changes": false,
+      "what": ""
+    },
+    {
+      "id": "OSH-17",
+      "ef": "2027-01-08",
+      "promulgated": "2026-07-07",
+      "changes": false,
+      "what": ""
+    },
+    {
+      "id": "OSH-17",
+      "ef": "2027-01-28",
+      "promulgated": "2026-10-27",
+      "changes": false,
+      "what": ""
+    },
+    {
+      "id": "OSH-17",
+      "ef": "2027-04-28",
+      "promulgated": "2026-10-27",
+      "changes": false,
+      "what": ""
+    },
+    {
+      "id": "OSH-17",
+      "ef": "2027-10-28",
+      "promulgated": "2026-10-27",
+      "changes": false,
+      "what": ""
+    },
+    {
+      "id": "OSH-25",
+      "ef": "2026-12-08",
+      "promulgated": "2026-04-07",
+      "changes": false,
+      "what": ""
+    },
+    {
+      "id": "OSH-25",
+      "ef": "2027-01-01",
+      "promulgated": "2026-02-19",
+      "changes": false,
+      "what": ""
+    },
+    {
+      "id": "OSH-25",
+      "ef": "2027-01-08",
+      "promulgated": "2026-07-07",
+      "changes": false,
+      "what": ""
+    },
+    {
+      "id": "OSH-25",
+      "ef": "2027-01-28",
+      "promulgated": "2026-10-27",
+      "changes": false,
+      "what": ""
+    },
+    {
+      "id": "OSH-25",
+      "ef": "2027-04-28",
+      "promulgated": "2026-10-27",
+      "changes": false,
+      "what": ""
+    },
+    {
+      "id": "OSH-25",
+      "ef": "2027-10-28",
+      "promulgated": "2026-10-27",
+      "changes": false,
+      "what": ""
+    },
+    {
+      "id": "OSH-29",
+      "ef": "2026-12-08",
+      "promulgated": "2026-04-07",
+      "changes": false,
+      "what": ""
+    },
+    {
+      "id": "OSH-29",
+      "ef": "2027-01-01",
+      "promulgated": "2026-02-19",
+      "changes": false,
+      "what": ""
+    },
+    {
+      "id": "OSH-29",
+      "ef": "2027-01-08",
+      "promulgated": "2026-07-07",
+      "changes": false,
+      "what": ""
+    },
+    {
+      "id": "OSH-29",
+      "ef": "2027-01-28",
+      "promulgated": "2026-10-27",
+      "changes": false,
+      "what": ""
+    },
+    {
+      "id": "OSH-29",
+      "ef": "2027-04-28",
+      "promulgated": "2026-10-27",
+      "changes": false,
+      "what": ""
+    },
+    {
+      "id": "OSH-29",
+      "ef": "2027-10-28",
+      "promulgated": "2026-10-27",
+      "changes": false,
+      "what": ""
+    }
+  ]
 }

@@ -3,7 +3,7 @@
   "title": "회사 · 세무 장부",
   "format": 1,
   "version": 1,
-  "checked_at": "",
+  "checked_at": "2026-11-11",
   "scope": {
     "covers": [
       "상법 — 제33조(상업장부등의 보존)",
@@ -81,5 +81,104 @@
       ]
     }
   ],
-  "upcoming": []
+  "upcoming": [
+    {
+      "id": "COMM-33",
+      "ef": "2027-01-01",
+      "promulgated": "2025-07-22",
+      "changes": false,
+      "what": ""
+    },
+    {
+      "id": "COMM-33",
+      "ef": "2027-01-01",
+      "promulgated": "2026-03-06",
+      "changes": false,
+      "what": ""
+    },
+    {
+      "id": "TAX-85-3",
+      "ef": "2028-01-01",
+      "promulgated": "2010-01-01",
+      "changes": false,
+      "what": ""
+    },
+    {
+      "id": "TAX-85-3",
+      "ef": "2028-01-01",
+      "promulgated": "2018-12-31",
+      "changes": false,
+      "what": ""
+    },
+    {
+      "id": "TAX-85-3",
+      "ef": "2028-01-01",
+      "promulgated": "2019-12-31",
+      "changes": false,
+      "what": ""
+    },
+    {
+      "id": "TAX-85-3",
+      "ef": "2028-01-01",
+      "promulgated": "2020-12-22",
+      "changes": false,
+      "what": ""
+    },
+    {
+      "id": "TAX-85-3",
+      "ef": "2028-01-01",
+      "promulgated": "2025-12-23",
+      "changes": false,
+      "what": ""
+    },
+    {
+      "id": "INCOMETAX-ENF-12",
+      "ef": "2027-01-01",
+      "promulgated": "2022-03-08",
+      "changes": false,
+      "what": ""
+    },
+    {
+      "id": "INCOMETAX-ENF-12",
+      "ef": "2027-01-01",
+      "promulgated": "2022-12-31",
+      "changes": false,
+      "what": ""
+    },
+    {
+      "id": "INCOMETAX-ENF-12",
+      "ef": "2027-01-01",
+      "promulgated": "2024-12-31",
+      "changes": false,
+      "what": ""
+    },
+    {
+      "id": "INCOMETAX-ENF-12",
+      "ef": "2027-01-01",
+      "promulgated": "2025-02-28",
+      "changes": false,
+      "what": ""
+    },
+    {
+      "id": "INCOMETAX-ENF-12",
+      "ef": "2027-01-01",
+      "promulgated": "2025-12-30",
+      "changes": false,
+      "what": ""
+    },
+    {
+      "id": "INCOMETAX-ENF-12",
+      "ef": "2027-01-01",
+      "promulgated": "2026-02-27",
+      "changes": false,
+      "what": ""
+    },
+    {
+      "id": "INCOMETAX-ENF-12",
+      "ef": "2028-01-01",
+      "promulgated": "2025-02-28",
+      "changes": false,
+      "what": ""
+    }
+  ]
 }

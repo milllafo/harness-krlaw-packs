@@ -3,7 +3,7 @@
   "title": "채용 · 근로",
   "format": 1,
   "version": 1,
-  "checked_at": "",
+  "checked_at": "2026-11-11",
   "scope": {
     "covers": [
       "근로기준법 — 제6조(균등한 처우) · 제17조(근로조건의 명시) · 제76조의2(직장 내 괴롭힘의 금지) · 제93조(취업규칙의 작성ㆍ신고) · 제94조(규칙의 작성, 변경 절차)",
@@ -248,5 +248,202 @@
       ]
     }
   ],
-  "upcoming": []
+  "upcoming": [
+    {
+      "id": "LABOR-6",
+      "ef": "2026-12-08",
+      "promulgated": "2026-04-07",
+      "changes": false,
+      "what": ""
+    },
+    {
+      "id": "LABOR-6",
+      "ef": "2026-12-10",
+      "promulgated": "2026-06-09",
+      "changes": false,
+      "what": ""
+    },
+    {
+      "id": "LABOR-6",
+      "ef": "2027-01-01",
+      "promulgated": "2026-03-17",
+      "changes": false,
+      "what": ""
+    },
+    {
+      "id": "LABOR-6",
+      "ef": "2027-01-01",
+      "promulgated": "2026-04-07",
+      "changes": false,
+      "what": ""
+    },
+    {
+      "id": "LABOR-6",
+      "ef": "2027-06-10",
+      "promulgated": "2026-06-09",
+      "changes": false,
+      "what": ""
+    },
+    {
+      "id": "LABOR-17",
+      "ef": "2026-12-08",
+      "promulgated": "2026-04-07",
+      "changes": false,
+      "what": ""
+    },
+    {
+      "id": "LABOR-17",
+      "ef": "2026-12-10",
+      "promulgated": "2026-06-09",
+      "changes": false,
+      "what": ""
+    },
+    {
+      "id": "LABOR-17",
+      "ef": "2027-01-01",
+      "promulgated": "2026-03-17",
+      "changes": false,
+      "what": ""
+    },
+    {
+      "id": "LABOR-17",
+      "ef": "2027-01-01",
+      "promulgated": "2026-04-07",
+      "changes": false,
+      "what": ""
+    },
+    {
+      "id": "LABOR-17",
+      "ef": "2027-06-10",
+      "promulgated": "2026-06-09",
+      "changes": false,
+      "what": ""
+    },
+    {
+      "id": "LABOR-76-2",
+      "ef": "2026-12-08",
+      "promulgated": "2026-04-07",
+      "changes": false,
+      "what": ""
+    },
+    {
+      "id": "LABOR-76-2",
+      "ef": "2026-12-10",
+      "promulgated": "2026-06-09",
+      "changes": false,
+      "what": ""
+    },
+    {
+      "id": "LABOR-76-2",
+      "ef": "2027-01-01",
+      "promulgated": "2026-03-17",
+      "changes": false,
+      "what": ""
+    },
+    {
+      "id": "LABOR-76-2",
+      "ef": "2027-01-01",
+      "promulgated": "2026-04-07",
+      "changes": false,
+      "what": ""
+    },
+    {
+      "id": "LABOR-76-2",
+      "ef": "2027-06-10",
+      "promulgated": "2026-06-09",
+      "changes": false,
+      "what": ""
+    },
+    {
+      "id": "LABOR-93",
+      "ef": "2026-12-08",
+      "promulgated": "2026-04-07",
+      "changes": false,
+      "what": ""
+    },
+    {
+      "id": "LABOR-93",
+      "ef": "2026-12-10",
+      "promulgated": "2026-06-09",
+      "changes": false,
+      "what": ""
+    },
+    {
+      "id": "LABOR-93",
+      "ef": "2027-01-01",
+      "promulgated": "2026-03-17",
+      "changes": false,
+      "what": ""
+    },
+    {
+      "id": "LABOR-93",
+      "ef": "2027-01-01",
+      "promulgated": "2026-04-07",
+      "changes": false,
+      "what": ""
+    },
+    {
+      "id": "LABOR-93",
+      "ef": "2027-06-10",
+      "promulgated": "2026-06-09",
+      "changes": false,
+      "what": ""
+    },
+    {
+      "id": "LABOR-94",
+      "ef": "2026-12-08",
+      "promulgated": "2026-04-07",
+      "changes": false,
+      "what": ""
+    },
+    {
+      "id": "LABOR-94",
+      "ef": "2026-12-10",
+      "promulgated": "2026-06-09",
+      "changes": false,
+      "what": ""
+    },
+    {
+      "id": "LABOR-94",
+      "ef": "2027-01-01",
+      "promulgated": "2026-03-17",
+      "changes": false,
+      "what": ""
+    },
+    {
+      "id": "LABOR-94",
+      "ef": "2027-01-01",
+      "promulgated": "2026-04-07",
+      "changes": false,
+      "what": ""
+    },
+    {
+      "id": "LABOR-94",
+      "ef": "2027-06-10",
+      "promulgated": "2026-06-09",
+      "changes": false,
+      "what": ""
+    },
+    {
+      "id": "EQUAL-7",
+      "ef": "2026-11-27",
+      "promulgated": "2026-05-26",
+      "changes": false,
+      "what": ""
+    },
+    {
+      "id": "EQUAL-13",
+      "ef": "2026-11-27",
+      "promulgated": "2026-05-26",
+      "changes": true,
+      "what": "글자"
+    },
+    {
+      "id": "DISEMP-5-2",
+      "ef": "2028-05-27",
+      "promulgated": "2026-05-26",
+      "changes": false,
+      "what": ""
+    }
+  ]
 }
