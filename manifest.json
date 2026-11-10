@@ -2,6 +2,31 @@
   "format": 1,
   "generated_at": "2026-11-11",
   "packs": {
+    "ad-general": {
+      "version": 1,
+      "checked_at": "",
+      "files": {
+        "packs/ad-general/pack.json": "bd950010a75975068d2712c982d279a0908c28251762a2659854e1ec18a39e07",
+        "packs/ad-general/basis.csv": "66b97daed6a74a2eb1db70005feb4cf45d61de2bc4c13eb58c96166d76d4d193",
+        "packs/ad-general/text/ADV-2.txt": "8a15b269ca9325a084ed3476a085fe92593a881e0d3e4504b7fad6b9fa08bddc",
+        "packs/ad-general/text/ADV-3.txt": "a5c4c86458136ec7b627410bfe5e48530974bffdf5609e6cbaa022ec6c6c3188",
+        "packs/ad-general/text/ADV-5.txt": "f1297f5688511cd5ec2745d7976f16ea8cadaae1a1154196174087a4cbf5c492",
+        "packs/ad-general/text/ADV-ENF-3.txt": "2f52351e7d7aba376baf99d50be4075091b02e440780b33b0ddbbb2ec5cd596b",
+        "packs/ad-general/text/ECOM-13.txt": "b1839a8f5484a235c8bc8ef40b817e3f65e641c1adb458baf86efdcd1bf25942",
+        "packs/ad-general/text/ECOM-21-2.txt": "e9f6ea1d6beab325896164eca16d803594578c6ca150cdab2d3e9c3075b7f3e3",
+        "packs/ad-general/text/ECOM-21.txt": "6c3a80dc26bacba96bc26fd4058b9a962549a1916d0f6e3f387c704b0a41179b",
+        "packs/ad-general/text/FTC-AWARD-ALL.txt": "49bc21680e445929d65edd60703cdfbca7fabdf40a11e76e8fdcb50d74fe48bc",
+        "packs/ad-general/text/FTC-COMPARE-ALL.txt": "c591dc0ae6b6bb739a3985250ff6a45c2874deb4235e2430afd6ebd6a4cfe17f",
+        "packs/ad-general/text/FTC-DECEPT-ALL.txt": "47cdd316b60dc594ccabe43834cb2fb040f929f5264b4fed51164c31add6a31e",
+        "packs/ad-general/text/FTC-ENDORSE-ALL.txt": "9fe39e7e56f4250b3cc7f32b4b4a4f262984555258cb23f8f8130f060f9efd86",
+        "packs/ad-general/text/FTC-LIMIT-ALL.txt": "3871d5205cf03c429e4645766dfffe7fe77b6a12cfb8f3b0747fb2c71aa0d621",
+        "packs/ad-general/text/FTC-ONLINE-ALL.txt": "50984f48430e7a57431b88c012cc5440c3b81b2612e5f52590b2b695ef263a85",
+        "packs/ad-general/text/FTC-PROOF-ALL.txt": "694407d8891047ce88418393db34d59458ce688af0fae64a3d66515e617e7392",
+        "packs/ad-general/text/FTC-TYPES-ALL.txt": "7958a133aa4e0ed6c3d6d00520f9f19a6f3d10d02463268e863636308cb6d292",
+        "packs/ad-general/text/NETACT-50-7.txt": "698c4f3f1f7ed18bc8802291e9cdab83fa09fc5dbe2172a2725cb7280f10b2cb",
+        "packs/ad-general/text/NETACT-50.txt": "e8077d9265a6ced0efdd219a10d0d8d7586e4a027c8a98967b9becc5a0da6855"
+      }
+    },
     "admin": {
       "version": 1,
       "checked_at": "2026-11-11",
